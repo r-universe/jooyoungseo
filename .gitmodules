@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ezpickr"]
+	path = ezpickr
+	url = https://github.com/jooyoungseo/ezpickr
+	shallow = true
+	registered = true
+[submodule "mboxr"]
+	path = mboxr
+	url = https://github.com/jooyoungseo/mboxr
+	shallow = true
+	registered = true
+[submodule "youtubecaption"]
+	path = youtubecaption
+	url = https://github.com/jooyoungseo/youtubecaption
+	shallow = true
+	registered = true

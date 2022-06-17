@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ezpickr",
+    "oncran": true
+  },
+  {
+    "package": "mboxr",
+    "oncran": true
+  },
+  {
+    "package": "youtubecaption",
+    "oncran": true
+  }
+]
